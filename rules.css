@@ -1,0 +1,52 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h2 {
+	font-family:'Indie Flower', cursive;
+	font-size: 2em;
+	text-align: center;
+	color: rgb(14, 13, 13);
+
+	
+}
+p {
+	text-align: center;
+    font-size: 25px;
+    font-family:'Indie Flower', cursive;
+    
+
+}
+button {
+	background-color: rgb(242, 243, 235);
+	cursor: pointer;
+	font-weight: 500;
+	border-radius: 5px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.header {
+    margin: 30px;
+    border: 1px solid rgb(78, 75, 75);
+    filter: alpha(opacity=60);
+}
+
+.btn {
+    font-weight: 30;
+    border-radius: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+.btn-sm {
+    padding: 5px;
+    margin: 5px;
+}
+
+
+.btn-primary:hover {
+    background-color: rgb(123, 126, 128);
+    cursor: pointer;
+}
+
